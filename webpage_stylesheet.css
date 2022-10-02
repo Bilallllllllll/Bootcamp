@@ -1,0 +1,22 @@
+
+img{
+    height: 15%;
+    width: 25%;
+}
+
+*{
+    text-align: center;
+    padding: 10%;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: navy;
+}
+
+.bold{
+    font-weight: bold;
+}

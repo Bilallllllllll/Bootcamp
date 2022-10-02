@@ -1,0 +1,61 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    color: blueviolet;
+    background-color: orange;
+    width: 35%;
+    height: 50px;
+}
+
+caption{
+    margin-left: 10%;
+}
+
+ul{
+    color: lightseagreen;
+    background-color: crimson;
+    margin-left: 10%;
+    padding:25px;
+    width: 35%
+}
+
+#L1{
+    font-weight: bold;
+    font-size: 20px;
+    color: purple;
+    background-color: black;
+}
+
+h4{
+    margin-left: 5%;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: bold;
+    opacity: 0.5;
+}
+
+a:hover{
+    opacity: 1;
+}
+
+img{
+    opacity: 1;
+    width: 40%;
+    height: 40%;
+    float: right;
+}
+
+
+ol{
+    border: 1px solid black;
+    width: 500px;
+    padding: 5%;
+    margin-left: 10%;
+    background-color: cadetblue;
+}

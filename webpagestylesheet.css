@@ -8,6 +8,26 @@ img{
     text-align: center;
 }
 
+h2{
+    text-align: left;
+}
+
+h3{
+    text-align: left;
+}
+
+h4{
+    text-align: left;
+}
+
+ul{
+    text-align: left;
+}
+
+li{
+    text-align: left;
+}
+
 div{
     padding-left: 15%;
     padding-right: 15%;
